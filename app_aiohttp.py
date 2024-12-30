@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-api_key = "6585604349:AAFYvPSwZUhVqtdw0XWqnbaj9baDAC8zhi4"
+api_key = ""
 
 URL = f"https://api.telegram.org/bot{api_key}/"
 
